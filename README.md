@@ -1,6 +1,8 @@
 # better-apt
 Better APT is a wrapper (soon to be it’s own package manager) for the APT package manager.
 All developed by one person. (linuxosguy)  
+
+
 Lines (v1.1): 378  
 v1.1 released -- 4/22/2026  
 
